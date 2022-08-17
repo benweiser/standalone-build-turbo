@@ -1,3 +1,7 @@
+# Standalone build causes turbo to hang
+
+Run `pnpm install` and then `pnpm run build` and then observer that the turbo process never exits
+
 # Turborepo starter with pnpm
 
 This is an official starter turborepo.
